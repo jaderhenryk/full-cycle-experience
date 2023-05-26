@@ -4,8 +4,6 @@
 
 # Full Cycle Learning Experience
 
-Para acessar todas as aulas e lives, acesse: https://fcexperience.fullcycle.com.br/
-
 ### Aula 01
 Docker e Containers e Microsserviço do ChatGPT
 
